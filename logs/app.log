@@ -1,0 +1,18 @@
+2021-05-23 09:54:50.052  INFO 11168 --- [main] net.roundspring.sell.LoggerTest          : Starting LoggerTest using Java 1.8.0_111 on ComputerName with PID 11168 (started by fmri2 in C:\Users\fmri2\IdeaProjects\sell)
+2021-05-23 09:54:50.057  INFO 11168 --- [main] net.roundspring.sell.LoggerTest          : No active profile set, falling back to default profiles: default
+2021-05-23 09:54:52.434  INFO 11168 --- [main] net.roundspring.sell.LoggerTest          : Started LoggerTest in 3.141 seconds (JVM running for 4.924)
+2021-05-23 09:54:52.434  INFO 11168 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-05-23 09:54:52.437  INFO 11168 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-05-23 09:54:52.704  INFO 11168 --- [main] net.roundspring.sell.LoggerTest          : info...
+2021-05-23 09:54:52.704  INFO 11168 --- [main] net.roundspring.sell.LoggerTest          : name: imooc, password: 123456
+2021-05-23 09:54:52.705 ERROR 11168 --- [main] net.roundspring.sell.LoggerTest          : error...
+2021-05-23 09:57:38.453  INFO 20972 --- [main] net.roundspring.sell.LoggerTest          : Starting LoggerTest using Java 1.8.0_111 on ComputerName with PID 20972 (started by fmri2 in C:\Users\fmri2\IdeaProjects\sell)
+2021-05-23 09:57:38.454 DEBUG 20972 --- [main] net.roundspring.sell.LoggerTest          : Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-05-23 09:57:38.456  INFO 20972 --- [main] net.roundspring.sell.LoggerTest          : No active profile set, falling back to default profiles: default
+2021-05-23 09:57:40.634  INFO 20972 --- [main] net.roundspring.sell.LoggerTest          : Started LoggerTest in 2.813 seconds (JVM running for 4.357)
+2021-05-23 09:57:40.636  INFO 20972 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-05-23 09:57:40.640  INFO 20972 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-05-23 09:57:40.984 DEBUG 20972 --- [main] net.roundspring.sell.LoggerTest          : debug...
+2021-05-23 09:57:40.984  INFO 20972 --- [main] net.roundspring.sell.LoggerTest          : info...
+2021-05-23 09:57:40.985  INFO 20972 --- [main] net.roundspring.sell.LoggerTest          : name: imooc, password: 123456
+2021-05-23 09:57:40.987 ERROR 20972 --- [main] net.roundspring.sell.LoggerTest          : error...

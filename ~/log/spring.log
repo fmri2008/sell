@@ -1,0 +1,8 @@
+2021-05-23 09:52:20.981  INFO 11840 --- [main] net.roundspring.sell.LoggerTest          : Starting LoggerTest using Java 1.8.0_111 on ComputerName with PID 11840 (started by fmri2 in C:\Users\fmri2\IdeaProjects\sell)
+2021-05-23 09:52:20.985  INFO 11840 --- [main] net.roundspring.sell.LoggerTest          : No active profile set, falling back to default profiles: default
+2021-05-23 09:52:23.105  INFO 11840 --- [main] net.roundspring.sell.LoggerTest          : Started LoggerTest in 2.74 seconds (JVM running for 4.245)
+2021-05-23 09:52:23.106  INFO 11840 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state LivenessState changed to CORRECT
+2021-05-23 09:52:23.108  INFO 11840 --- [main] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+2021-05-23 09:52:23.417  INFO 11840 --- [main] net.roundspring.sell.LoggerTest          : info...
+2021-05-23 09:52:23.417  INFO 11840 --- [main] net.roundspring.sell.LoggerTest          : name: imooc, password: 123456
+2021-05-23 09:52:23.419 ERROR 11840 --- [main] net.roundspring.sell.LoggerTest          : error...
