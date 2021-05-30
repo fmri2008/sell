@@ -466,3 +466,7 @@ Caused by: java.net.ConnectException: Connection timed out: connect
 	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
 	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
 	... 75 common frames omitted
+Duplicate entry '10' for key 'uqe_category_type'
+Unknown column 'productinf0_.product_description' in 'field list'
+Unknown column 'productinf0_.product_status' in 'field list'
+Unknown column 'productinf0_.product_status' in 'field list'

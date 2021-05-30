@@ -1,0 +1,269 @@
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=30m26s291ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=19m40s30ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h20s563ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h8m22s735ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h23s222ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h39m38s204ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=52s718ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=12m44s977ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=29m27s617ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m30s434ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=29m11s573ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m13s102ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h22s840ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h12m18s765ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h10m38s836ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m43s871ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=45s350ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m36s865ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=45s440ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=29m8s444ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11m5s547ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m30s910ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=28m25s483ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=23m33s884ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m28s682ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=30m25s716ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m22s856ms).
+Starting OrderMasterRepositoryTest using Java 16.0.1 on DLs-MacBook-Pro.local with PID 24224 (started by dl in /Users/dl/Documents/java/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 48 ms. Found 4 JPA repository interfaces.
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.31.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Started OrderMasterRepositoryTest in 3.455 seconds (JVM running for 4.385)
+Application availability state LivenessState changed to CORRECT
+Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+Starting OrderMasterRepositoryTest using Java 16.0.1 on DLs-MacBook-Pro.local with PID 24249 (started by dl in /Users/dl/Documents/java/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 45 ms. Found 4 JPA repository interfaces.
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.31.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Started OrderMasterRepositoryTest in 3.092 seconds (JVM running for 3.921)
+Application availability state LivenessState changed to CORRECT
+Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+Starting OrderMasterRepositoryTest using Java 16.0.1 on DLs-MacBook-Pro.local with PID 24328 (started by dl in /Users/dl/Documents/java/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 44 ms. Found 4 JPA repository interfaces.
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.31.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Started OrderMasterRepositoryTest in 3.267 seconds (JVM running for 4.125)
+Application availability state LivenessState changed to CORRECT
+Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+Starting OrderMasterRepositoryTest using Java 16.0.1 on DLs-MacBook-Pro.local with PID 24366 (started by dl in /Users/dl/Documents/java/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 45 ms. Found 4 JPA repository interfaces.
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.31.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Started OrderMasterRepositoryTest in 3.357 seconds (JVM running for 4.205)
+Application availability state LivenessState changed to CORRECT
+Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+Starting OrderDetailRepositoryTest using Java 16.0.1 on DLs-MacBook-Pro.local with PID 24549 (started by dl in /Users/dl/Documents/java/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 43 ms. Found 4 JPA repository interfaces.
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.31.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Started OrderDetailRepositoryTest in 3.082 seconds (JVM running for 4.023)
+Application availability state LivenessState changed to CORRECT
+Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+Began transaction (1) for test context [DefaultTestContext@12f9af83 testClass = OrderDetailRepositoryTest, testInstance = net.roundspring.sell.repository.OrderDetailRepositoryTest@76eee0b1, testMethod = saveTest@OrderDetailRepositoryTest, testException = [null], mergedContextConfiguration = [WebMergedContextConfiguration@19b93fa8 testClass = OrderDetailRepositoryTest, locations = '{}', classes = '{class net.roundspring.sell.SellApplication}', contextInitializerClasses = '[]', activeProfiles = '{}', propertySourceLocations = '{}', propertySourceProperties = '{org.springframework.boot.test.context.SpringBootTestContextBootstrapper=true}', contextCustomizers = set[org.springframework.boot.test.context.filter.ExcludeFilterContextCustomizer@65c7a252, org.springframework.boot.test.json.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer@4686afc2, org.springframework.boot.test.mock.mockito.MockitoContextCustomizer@0, org.springframework.boot.test.web.client.TestRestTemplateContextCustomizer@2892d68, org.springframework.boot.test.autoconfigure.actuate.metrics.MetricsExportContextCustomizerFactory$DisableMetricExportContextCustomizer@740cae06, org.springframework.boot.test.autoconfigure.properties.PropertyMappingContextCustomizer@0, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverContextCustomizerFactory$Customizer@5d0bf09b, org.springframework.boot.test.context.SpringBootTestArgs@1, org.springframework.boot.test.context.SpringBootTestWebEnvironment@483bf400], resourceBasePath = 'src/main/webapp', contextLoader = 'org.springframework.boot.test.context.SpringBootContextLoader', parent = [null]], attributes = map['org.springframework.test.context.web.ServletTestExecutionListener.activateListener' -> true, 'org.springframework.test.context.web.ServletTestExecutionListener.populatedRequestContextHolder' -> true, 'org.springframework.test.context.web.ServletTestExecutionListener.resetRequestContextHolder' -> true, 'org.springframework.test.context.event.ApplicationEventsTestExecutionListener.recordApplicationEvents' -> false]]; transaction manager [org.springframework.orm.jpa.JpaTransactionManager@3c9cfcde]; rollback [true]
+Rolled back transaction for test: [DefaultTestContext@12f9af83 testClass = OrderDetailRepositoryTest, testInstance = net.roundspring.sell.repository.OrderDetailRepositoryTest@76eee0b1, testMethod = saveTest@OrderDetailRepositoryTest, testException = [null], mergedContextConfiguration = [WebMergedContextConfiguration@19b93fa8 testClass = OrderDetailRepositoryTest, locations = '{}', classes = '{class net.roundspring.sell.SellApplication}', contextInitializerClasses = '[]', activeProfiles = '{}', propertySourceLocations = '{}', propertySourceProperties = '{org.springframework.boot.test.context.SpringBootTestContextBootstrapper=true}', contextCustomizers = set[org.springframework.boot.test.context.filter.ExcludeFilterContextCustomizer@65c7a252, org.springframework.boot.test.json.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer@4686afc2, org.springframework.boot.test.mock.mockito.MockitoContextCustomizer@0, org.springframework.boot.test.web.client.TestRestTemplateContextCustomizer@2892d68, org.springframework.boot.test.autoconfigure.actuate.metrics.MetricsExportContextCustomizerFactory$DisableMetricExportContextCustomizer@740cae06, org.springframework.boot.test.autoconfigure.properties.PropertyMappingContextCustomizer@0, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverContextCustomizerFactory$Customizer@5d0bf09b, org.springframework.boot.test.context.SpringBootTestArgs@1, org.springframework.boot.test.context.SpringBootTestWebEnvironment@483bf400], resourceBasePath = 'src/main/webapp', contextLoader = 'org.springframework.boot.test.context.SpringBootContextLoader', parent = [null]], attributes = map['org.springframework.test.context.web.ServletTestExecutionListener.activateListener' -> true, 'org.springframework.test.context.web.ServletTestExecutionListener.populatedRequestContextHolder' -> true, 'org.springframework.test.context.web.ServletTestExecutionListener.resetRequestContextHolder' -> true, 'org.springframework.test.context.event.ApplicationEventsTestExecutionListener.recordApplicationEvents' -> false]]
+Starting OrderDetailRepositoryTest using Java 16.0.1 on DLs-MacBook-Pro.local with PID 24576 (started by dl in /Users/dl/Documents/java/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 41 ms. Found 4 JPA repository interfaces.
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.31.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Started OrderDetailRepositoryTest in 3.078 seconds (JVM running for 3.895)
+Application availability state LivenessState changed to CORRECT
+Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+Began transaction (1) for test context [DefaultTestContext@12f9af83 testClass = OrderDetailRepositoryTest, testInstance = net.roundspring.sell.repository.OrderDetailRepositoryTest@13ae87a6, testMethod = saveTest@OrderDetailRepositoryTest, testException = [null], mergedContextConfiguration = [WebMergedContextConfiguration@19b93fa8 testClass = OrderDetailRepositoryTest, locations = '{}', classes = '{class net.roundspring.sell.SellApplication}', contextInitializerClasses = '[]', activeProfiles = '{}', propertySourceLocations = '{}', propertySourceProperties = '{org.springframework.boot.test.context.SpringBootTestContextBootstrapper=true}', contextCustomizers = set[org.springframework.boot.test.context.filter.ExcludeFilterContextCustomizer@65c7a252, org.springframework.boot.test.json.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer@4686afc2, org.springframework.boot.test.mock.mockito.MockitoContextCustomizer@0, org.springframework.boot.test.web.client.TestRestTemplateContextCustomizer@2892d68, org.springframework.boot.test.autoconfigure.actuate.metrics.MetricsExportContextCustomizerFactory$DisableMetricExportContextCustomizer@740cae06, org.springframework.boot.test.autoconfigure.properties.PropertyMappingContextCustomizer@0, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverContextCustomizerFactory$Customizer@5d0bf09b, org.springframework.boot.test.context.SpringBootTestArgs@1, org.springframework.boot.test.context.SpringBootTestWebEnvironment@483bf400], resourceBasePath = 'src/main/webapp', contextLoader = 'org.springframework.boot.test.context.SpringBootContextLoader', parent = [null]], attributes = map['org.springframework.test.context.web.ServletTestExecutionListener.activateListener' -> true, 'org.springframework.test.context.web.ServletTestExecutionListener.populatedRequestContextHolder' -> true, 'org.springframework.test.context.web.ServletTestExecutionListener.resetRequestContextHolder' -> true, 'org.springframework.test.context.event.ApplicationEventsTestExecutionListener.recordApplicationEvents' -> false]]; transaction manager [org.springframework.orm.jpa.JpaTransactionManager@7a75183d]; rollback [true]
+Rolled back transaction for test: [DefaultTestContext@12f9af83 testClass = OrderDetailRepositoryTest, testInstance = net.roundspring.sell.repository.OrderDetailRepositoryTest@13ae87a6, testMethod = saveTest@OrderDetailRepositoryTest, testException = [null], mergedContextConfiguration = [WebMergedContextConfiguration@19b93fa8 testClass = OrderDetailRepositoryTest, locations = '{}', classes = '{class net.roundspring.sell.SellApplication}', contextInitializerClasses = '[]', activeProfiles = '{}', propertySourceLocations = '{}', propertySourceProperties = '{org.springframework.boot.test.context.SpringBootTestContextBootstrapper=true}', contextCustomizers = set[org.springframework.boot.test.context.filter.ExcludeFilterContextCustomizer@65c7a252, org.springframework.boot.test.json.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer@4686afc2, org.springframework.boot.test.mock.mockito.MockitoContextCustomizer@0, org.springframework.boot.test.web.client.TestRestTemplateContextCustomizer@2892d68, org.springframework.boot.test.autoconfigure.actuate.metrics.MetricsExportContextCustomizerFactory$DisableMetricExportContextCustomizer@740cae06, org.springframework.boot.test.autoconfigure.properties.PropertyMappingContextCustomizer@0, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverContextCustomizerFactory$Customizer@5d0bf09b, org.springframework.boot.test.context.SpringBootTestArgs@1, org.springframework.boot.test.context.SpringBootTestWebEnvironment@483bf400], resourceBasePath = 'src/main/webapp', contextLoader = 'org.springframework.boot.test.context.SpringBootContextLoader', parent = [null]], attributes = map['org.springframework.test.context.web.ServletTestExecutionListener.activateListener' -> true, 'org.springframework.test.context.web.ServletTestExecutionListener.populatedRequestContextHolder' -> true, 'org.springframework.test.context.web.ServletTestExecutionListener.resetRequestContextHolder' -> true, 'org.springframework.test.context.event.ApplicationEventsTestExecutionListener.recordApplicationEvents' -> false]]
+Starting OrderDetailRepositoryTest using Java 16.0.1 on DLs-MacBook-Pro.local with PID 24589 (started by dl in /Users/dl/Documents/java/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 45 ms. Found 4 JPA repository interfaces.
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.31.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Started OrderDetailRepositoryTest in 3.211 seconds (JVM running for 4.094)
+Application availability state LivenessState changed to CORRECT
+Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+Starting OrderMasterRepositoryTest using Java 16.0.1 on DLs-MacBook-Pro.local with PID 24613 (started by dl in /Users/dl/Documents/java/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 44 ms. Found 4 JPA repository interfaces.
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.31.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Started OrderMasterRepositoryTest in 2.885 seconds (JVM running for 3.759)
+Application availability state LivenessState changed to CORRECT
+Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+Starting OrderMasterRepositoryTest using Java 16.0.1 on DLs-MacBook-Pro.local with PID 24618 (started by dl in /Users/dl/Documents/java/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 44 ms. Found 4 JPA repository interfaces.
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.31.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Started OrderMasterRepositoryTest in 3.006 seconds (JVM running for 3.862)
+Application availability state LivenessState changed to CORRECT
+Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+Starting ProductCategoryRepositoryTest using Java 16.0.1 on DLs-MacBook-Pro.local with PID 24623 (started by dl in /Users/dl/Documents/java/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 44 ms. Found 4 JPA repository interfaces.
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.31.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Started ProductCategoryRepositoryTest in 3.018 seconds (JVM running for 3.731)
+Application availability state LivenessState changed to CORRECT
+Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+Starting OrderDetailRepositoryTest using Java 16.0.1 on DLs-MacBook-Pro.local with PID 24636 (started by dl in /Users/dl/Documents/java/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 44 ms. Found 4 JPA repository interfaces.
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.31.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Started OrderDetailRepositoryTest in 2.9 seconds (JVM running for 3.61)
+Application availability state LivenessState changed to CORRECT
+Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+Starting OrderMasterRepositoryTest using Java 16.0.1 on DLs-MacBook-Pro.local with PID 24642 (started by dl in /Users/dl/Documents/java/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 49 ms. Found 4 JPA repository interfaces.
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.31.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Started OrderMasterRepositoryTest in 3.328 seconds (JVM running for 4.101)
+Application availability state LivenessState changed to CORRECT
+Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+Starting OrderDetailRepositoryTest using Java 16.0.1 on DLs-MacBook-Pro.local with PID 24666 (started by dl in /Users/dl/Documents/java/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 46 ms. Found 4 JPA repository interfaces.
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.31.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Started OrderDetailRepositoryTest in 3.069 seconds (JVM running for 3.749)
+Application availability state LivenessState changed to CORRECT
+Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+Starting OrderDetailRepositoryTest using Java 16.0.1 on DLs-MacBook-Pro.local with PID 24687 (started by dl in /Users/dl/Documents/java/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 48 ms. Found 4 JPA repository interfaces.
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.31.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Started OrderDetailRepositoryTest in 3.282 seconds (JVM running for 4.134)
+Application availability state LivenessState changed to CORRECT
+Application availability state ReadinessState changed to ACCEPTING_TRAFFIC

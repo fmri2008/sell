@@ -1,0 +1,379 @@
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=30m26s136ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h22s757ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h28m6s409ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h22s297ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h22s462ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h17m11s151ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=21m11s96ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m54s278ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m2s52ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m38s915ms).
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 3 ms
+Starting SellApplication using Java 16.0.1 on DLs-MacBook-Pro.local with PID 10771 (/Users/dl/Documents/java/sell/target/classes started by dl in /Users/dl/Documents/java/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 51 ms. Found 2 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.46]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 851 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.31.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Started SellApplication in 2.437 seconds (JVM running for 3.033)
+Application availability state LivenessState changed to CORRECT
+Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 0 ms
+Starting SellApplication using Java 16.0.1 on DLs-MacBook-Pro.local with PID 10939 (/Users/dl/Documents/java/sell/target/classes started by dl in /Users/dl/Documents/java/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 31 ms. Found 2 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.46]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 850 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.31.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.39 seconds (JVM running for 2.912)
+Application availability state LivenessState changed to CORRECT
+Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+Starting SellApplication using Java 16.0.1 on DLs-MacBook-Pro.local with PID 10964 (/Users/dl/Documents/java/sell/target/classes started by dl in /Users/dl/Documents/java/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 33 ms. Found 2 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.46]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 887 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.31.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.502 seconds (JVM running for 2.903)
+Application availability state LivenessState changed to CORRECT
+Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 0 ms
+Starting SellApplication using Java 16.0.1 on DLs-MacBook-Pro.local with PID 11100 (/Users/dl/Documents/java/sell/target/classes started by dl in /Users/dl/Documents/java/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 34 ms. Found 2 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.46]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 862 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.31.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.429 seconds (JVM running for 2.947)
+Application availability state LivenessState changed to CORRECT
+Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+Starting SellApplication using Java 16.0.1 on DLs-MacBook-Pro.local with PID 11195 (/Users/dl/Documents/java/sell/target/classes started by dl in /Users/dl/Documents/java/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 37 ms. Found 2 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.46]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 831 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.31.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.238 seconds (JVM running for 2.623)
+Application availability state LivenessState changed to CORRECT
+Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+Starting SellApplication using Java 16.0.1 on DLs-MacBook-Pro.local with PID 11613 (/Users/dl/Documents/java/sell/target/classes started by dl in /Users/dl/Documents/java/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 31 ms. Found 2 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.46]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 826 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.31.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.375 seconds (JVM running for 2.932)
+Application availability state LivenessState changed to CORRECT
+Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m32s401ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m59s5ms).
+Starting SellApplication using Java 16.0.1 on DLs-MacBook-Pro.local with PID 12523 (/Users/dl/Documents/java/sell/target/classes started by dl in /Users/dl/Documents/java/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 31 ms. Found 2 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.46]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 829 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.31.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.373 seconds (JVM running for 2.945)
+Application availability state LivenessState changed to CORRECT
+Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 0 ms
+Starting SellApplication using Java 16.0.1 on DLs-MacBook-Pro.local with PID 12551 (/Users/dl/Documents/java/sell/target/classes started by dl in /Users/dl/Documents/java/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 36 ms. Found 2 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.46]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 806 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.31.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.25 seconds (JVM running for 2.663)
+Application availability state LivenessState changed to CORRECT
+Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 0 ms
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m40s338ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m5s634ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=25m58s984ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=49m18s216ms).
+Starting SellApplication using Java 16.0.1 on DLs-MacBook-Pro.local with PID 15236 (/Users/dl/Documents/java/sell/target/classes started by dl in /Users/dl/Documents/java/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 33 ms. Found 2 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.46]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 894 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.31.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HHH000342: Could not obtain connection to query metadata
+com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:833)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:453)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:246)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:198)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:364)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:476)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:561)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112)
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:122)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:180)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:68)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:35)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:101)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:263)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:237)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory.injectServices(DefaultIdentifierGeneratorFactory.java:152)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.injectDependencies(AbstractServiceRegistryImpl.java:286)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:243)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.boot.internal.InFlightMetadataCollectorImpl.<init>(InFlightMetadataCollectorImpl.java:176)
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:127)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.metadata(EntityManagerFactoryBuilderImpl.java:1224)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1255)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1845)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:438)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:337)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1336)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1325)
+	at net.roundspring.sell.SellApplication.main(SellApplication.java:10)
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:89)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:144)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:953)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:823)
+	... 49 common frames omitted
+Caused by: java.net.SocketTimeoutException: Connect timed out
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:546)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:645)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:63)
+	... 52 common frames omitted
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.service.spi.ServiceException: Unable to create requested service [org.hibernate.engine.jdbc.env.spi.JdbcEnvironment]
+Stopping service [Tomcat]
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+Starting SellApplication using Java 16.0.1 on DLs-MacBook-Pro.local with PID 15354 (/Users/dl/Documents/java/sell/target/classes started by dl in /Users/dl/Documents/java/sell)
+No active profile set, falling back to default profiles: default
+Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+Finished Spring Data repository scanning in 32 ms. Found 2 JPA repository interfaces.
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.46]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 920 ms
+HikariPool-1 - Starting...
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+HikariPool-1 - Start completed.
+HHH000204: Processing PersistenceUnitInfo [name: default]
+HHH000412: Hibernate ORM core version 5.4.31.Final
+HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+Initialized JPA EntityManagerFactory for persistence unit 'default'
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path '/sell'
+Started SellApplication in 2.694 seconds (JVM running for 3.221)
+Application availability state LivenessState changed to CORRECT
+Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 1 ms
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=29m2s808ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=14m39s769ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=46s55ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=29m15s332ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m7s653ms).
