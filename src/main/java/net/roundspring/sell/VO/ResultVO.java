@@ -1,5 +1,6 @@
 package net.roundspring.sell.VO;
 
+import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.Data;
 
 @Data

@@ -1,0 +1,4 @@
+cancel order: order status is incorrect, orderId=1622512777910595432, orderStatus=2
+finish order: order status incorrect, orderId=1622512777910595432, orderStatus=2
+finish order: order status incorrect, orderId=1622512777910595432, orderStatus=0
+pay order: pay status error, orderDTO=OrderDTO(orderId=1622512777910595432, buyerName=Dave, buyerPhone=9193332222, buyerAddress=3345 Broadway, buyerOpenid=1101110, orderAmount=9.60, orderStatus=0, payStatus=1, createTime=2021-06-01 01:59:38.0, updateTime=2021-06-02 03:58:42.0, orderDetailList=[OrderDetail(detailId=1622512777950378227, orderId=1622512777910595432, productId=123457, productName=皮皮虾, productPrice=3.20, productQuantity=1, productIcon=http://xxxxx.jpg), OrderDetail(detailId=1622512777976570441, orderId=1622512777910595432, productId=123456, productName=皮蛋粥, productPrice=3.20, productQuantity=2, productIcon=http://xxxxx.jpg)])

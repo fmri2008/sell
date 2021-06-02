@@ -1,6 +1,7 @@
 package net.roundspring.sell.service;
 
 import net.roundspring.sell.dataobject.ProductInfo;
+import net.roundspring.sell.dto.CartDTO;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 
@@ -14,6 +15,8 @@ public interface ProductService {
     ProductInfo save(ProductInfo productInfo);
 
     // increase stock
+    void increaseStock(List<CartDTO> cartDTOList);
 
     // decrease stock
+    void decreaseStock(List<CartDTO> cartDTOList);
 }
