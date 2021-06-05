@@ -705,3 +705,21 @@ Error starting ApplicationContext. To display the conditions report re-run your 
 Initializing Spring DispatcherServlet 'dispatcherServlet'
 Initializing Servlet 'dispatcherServlet'
 Completed initialization in 1 ms
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m45s350ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m49s865ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=30m11s490ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m27s60ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=22m49s558ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m12s773ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=25m30s81ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m49s113ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11m38s672ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m26s881ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=13m54s703ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m1s697ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m14s319ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m25s465ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m6s704ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m6s233ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=23m11s215ms).
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=31m23s666ms).
